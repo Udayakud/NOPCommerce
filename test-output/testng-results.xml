@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13626" started-at="2022-12-18T16:54:30Z" finished-at="2022-12-18T16:54:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13626" started-at="2022-12-18T16:54:30Z" finished-at="2022-12-18T16:54:43Z">
+      <class name="com.NOPCommerce.NOPCommerce">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="launchBrowser" is-config="true" duration-ms="3622" started-at="2022-12-18T16:54:30Z" finished-at="2022-12-18T16:54:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="homePage()[pri:1, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="homePage" duration-ms="3738" started-at="2022-12-18T16:54:33Z" finished-at="2022-12-18T16:54:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method status="PASS" signature="myAccount()[pri:2, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="myAccount" duration-ms="146" started-at="2022-12-18T16:54:37Z" finished-at="2022-12-18T16:54:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccount -->
+        <test-method status="PASS" signature="logIn()[pri:3, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="logIn" duration-ms="1993" started-at="2022-12-18T16:54:37Z" finished-at="2022-12-18T16:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="logInValidation()[pri:4, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="logInValidation" duration-ms="1844" started-at="2022-12-18T16:54:39Z" finished-at="2022-12-18T16:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInValidation -->
+        <test-method status="PASS" signature="landingPage()[pri:5, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="landingPage" duration-ms="138" started-at="2022-12-18T16:54:41Z" finished-at="2022-12-18T16:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingPage -->
+        <test-method status="PASS" signature="productOptionsStoreDemo()[pri:6, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="productOptionsStoreDemo" duration-ms="80" started-at="2022-12-18T16:54:41Z" finished-at="2022-12-18T16:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productOptionsStoreDemo -->
+        <test-method status="PASS" signature="productOptionsShowcase()[pri:7, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="productOptionsShowcase" duration-ms="66" started-at="2022-12-18T16:54:41Z" finished-at="2022-12-18T16:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productOptionsShowcase -->
+        <test-method status="PASS" signature="productOptionsFeatures()[pri:8, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="productOptionsFeatures" duration-ms="65" started-at="2022-12-18T16:54:41Z" finished-at="2022-12-18T16:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productOptionsFeatures -->
+        <test-method status="PASS" signature="productOptionsWhyfordevelopers()[pri:9, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="productOptionsWhyfordevelopers" duration-ms="52" started-at="2022-12-18T16:54:41Z" finished-at="2022-12-18T16:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productOptionsWhyfordevelopers -->
+        <test-method status="PASS" signature="productOptionsWhyforstoreowners()[pri:10, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="productOptionsWhyforstoreowners" duration-ms="59" started-at="2022-12-18T16:54:41Z" finished-at="2022-12-18T16:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productOptionsWhyforstoreowners -->
+        <test-method status="PASS" signature="productOptionsIndustries()[pri:11, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="productOptionsIndustries" duration-ms="52" started-at="2022-12-18T16:54:41Z" finished-at="2022-12-18T16:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productOptionsIndustries -->
+        <test-method status="PASS" signature="logOutCheck()[pri:12, instance:com.NOPCommerce.NOPCommerce@402a079c]" name="logOutCheck" duration-ms="1717" started-at="2022-12-18T16:54:42Z" finished-at="2022-12-18T16:54:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutCheck -->
+      </class> <!-- com.NOPCommerce.NOPCommerce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
